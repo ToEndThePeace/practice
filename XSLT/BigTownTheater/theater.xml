@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="./format.xsl"?>
+<theater>
+	<movies>
+		<movie>
+			<title>That Thing</title>
+			<genre>Horror</genre>
+			<time>08:00</time>
+		</movie>
+		<movie>
+			<title>It</title>
+			<genre>Comedy</genre>
+			<time>07:35</time>
+		</movie>
+		<movie>
+			<title>What the Fuck</title>
+			<genre>Um</genre>
+			<time>16:44</time>
+		</movie>
+		<movie>
+			<title>Brave New World</title>
+			<genre>Truth</genre>
+			<time>13:00</time>
+		</movie>
+		<movie>
+			<title>I Love XSLT</title>
+			<genre>Documentary</genre>
+			<time>16:44</time>
+		</movie>
+	</movies>
+	<snacks>
+		<snack type="candy">
+			<title>Chocolate</title>
+			<price>$2.45</price>
+		</snack>
+		<snack type="fresh">
+			<title>Popcorn</title>
+			<price>$3.00</price>
+		</snack>
+		<snack type="drink">
+			<title>ICEE</title>
+			<price>$4.00</price>
+		</snack>
+		<snack type="fresh">
+			<title>Pretzel</title>
+			<price>$1.25</price>
+		</snack>
+		<snack type="drink">
+			<title>Fountain Drink</title>
+			<price>$3.15</price>
+		</snack>
+	</snacks>
+	<tickets>
+		<ticket>
+			<type>Normal</type>
+			<price>$07.00</price>
+		</ticket>
+		<ticket>
+			<type>3D</type>
+			<price>$10.00</price>
+		</ticket>
+		<ticket>
+			<type>IMAX</type>
+			<price>$12.00</price>
+		</ticket>
+	</tickets>
+</theater>
