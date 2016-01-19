@@ -12,6 +12,6 @@
 		<div id="not_foot">
 			<header>
 				<p class="content">
-					test header
+					BattleShip
 				</p>
 			</header>

@@ -91,35 +91,12 @@ footer {
 [class^='col-'] {
 	padding: 15px;
 	float: left;
-	border: 1px solid #000;
-	background-color: #999;
 }
 [class^='col-']:last-of-type {
 	padding-right: 0;
 }
-.col-1-2 {
-	width: 50%;
-}
-.col-1-7 {
-	width: 14.26%;
-}
-.col-2-7 {
-	width: 28.57%;
-}
-.col-4-7 {
-	width: 57.17%;
-}
 .col-1-10 {
 	width: 10%;
-}
-.col-3-10 {
-	width: 30%;
-}
-.col-1-5 {
-	width: 20%;
-}
-.col-2-5 {
-	width: 40%;
 }
 
 
